@@ -36,4 +36,9 @@ Para Android:
 bash
 npx react-native run-android
 ```
+- react-native-maps: Integração do Google Maps no React Native.
+  - react-native-geolocation-service: Gerenciamento de geolocalização.
+- axios: Para fazer requisições HTTP.
+- FontAwesome: Ícones e fontes.
+- @react-native-community/async-storage: Armazenamento local de dados.
 # Heldhma Luiza Paiva Ferreira
