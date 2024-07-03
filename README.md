@@ -18,4 +18,22 @@ react-native-maps para integração do mapa
 react-native-geolocation-service para gerenciamento de geolocalização
 JavaScript (ES6+)
 
+# Como faço pra rodar o código?
+simples!
+clona meu repositório e instala as bibliotecas
+```
+npm install
+# ou
+yarn install
+
+```
+
+```
+Para iOS:
+bash
+npx react-native run-ios
+Para Android:
+bash
+npx react-native run-android
+```
 # Heldhma Luiza Paiva Ferreira
