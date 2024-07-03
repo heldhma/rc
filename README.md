@@ -2,7 +2,7 @@
 Já pensou em ver os museus mais importantes de Recife? 
 Aqui você acompanha e acessa como chegar nos principais museus..
 
-https://github.com/heldhma/rc/assets/132068594/8b5517db-a55f-421d-86ab-ffd83c919113
+https://github.com/heldhma/rc/assets/132068594/4f3fbec5-f14e-4860-b73d-9abc1b6e3f7c
 
 
 # Funcionalidades
