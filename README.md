@@ -17,3 +17,6 @@ Google Maps API
 react-native-maps para integração do mapa
 react-native-geolocation-service para gerenciamento de geolocalização
 JavaScript (ES6+)
+
+# Heldhma Luiza Paiva Ferreira 
+- projeto mobile - 
